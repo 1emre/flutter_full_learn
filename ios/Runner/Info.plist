@@ -26,8 +26,8 @@
 	<true/>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-  	<string>https</string>
- 	 <string>http</string>
+		<string>https</string>
+		<string>http</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
@@ -50,5 +50,9 @@
 	<true/>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>i want to your camera for image upload</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>we need to your library</string>
 </dict>
 </plist>
